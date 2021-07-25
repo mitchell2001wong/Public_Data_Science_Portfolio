@@ -1,6 +1,6 @@
 # Public_Data_Science_Portfolio
 
-School projects are avaliable upon request.
+School projects are available upon request.
 
 Metallic Asteroid Classification (Personal):
 Used 10-fold cross-validation and Imblearn’s SMOTE oversampling to train and evaluate a classifier that attempts to identify asteroids with high metal content.
