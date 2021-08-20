@@ -1,6 +1,6 @@
 from apiclient.discovery import build # ignore this warning
 
-api_key = "AIzaSyD0efTquIAOAZH3oCI4WDZdLr8c01cHUHA"
+api_key = "TotallyRealAPIKey"
 resource = build("customsearch", 'v1', developerKey=api_key).cse()
 
 def get_img_links(city, state):
