@@ -7,7 +7,7 @@ Created a web application that recommends towns/cities to live in based on crite
 Cleaned and merged data from five different sources in a Python Jupyter Notebook. 
 Created with Streamlit app framework and deployed with Heroku. 
 Interacted with Google Custom Search API to display images of homes in recommended towns.
-Link to application: https://future-hometown-finder.herokuapp.com/. Note that I have limited Google Custom Search API calls, so if you use the app only run it a few times (less than 10)
+Link to application: https://future-hometown-finder.herokuapp.com/. Note that I have limited Google Custom Search API calls, so if you use the app only run it a few times (less than 10).
 
 ## Metallic Asteroid Classification:
 Used 10-fold cross-validation and Imblearn’s SMOTE oversampling to train and evaluate a classifier that attempts to identify asteroids with high metal content.
